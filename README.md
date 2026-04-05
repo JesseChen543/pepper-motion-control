@@ -124,6 +124,10 @@ Part of the Wonderbyte Pepper Project ecosystem:
 - Press the **chest button** for emergency stop
 - The controller temporarily adjusts collision protection — re-enabled on exit
 
+## Keywords
+
+`pepper robot` `softbank pepper` `naoqi` `naoqi python` `pepper movement` `robot movement` `motion control` `robot walking` `robot navigation` `humanoid robot` `social robot` `python robotics` `ALMotion` `joystick control` `websocket control`
+
 ## License
 
 MIT
