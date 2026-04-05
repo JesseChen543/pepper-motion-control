@@ -108,13 +108,14 @@ Units: metres for distance, radians for angle
 
 ## Related Projects
 
-Part of the [Wonderbyte Pepper Project](https://github.com/JesseChen543/pepper) ecosystem:
+Part of the Wonderbyte Pepper Project ecosystem:
 
 - [Dance routines](https://github.com/JesseChen543/naoqi-robot-dance)
-- Voice / Realtime API — see `pepper-voice`
-- LED control — see `pepper-led`
-- Camera + gallery — see `pepper-camera`
-- Full dashboard — see `pepper-main`
+- [Voice / Realtime API](https://github.com/JesseChen543/pepper-realtime-voice)
+- [LED control](https://github.com/JesseChen543/pepper-led-control)
+- [Camera + gallery](https://github.com/JesseChen543/pepper-robot-camera)
+- [Full dashboard](https://github.com/JesseChen543/pepper-robot-dashboard)
+- [YouTube player](https://github.com/JesseChen543/pepper-youtube-player)
 
 ## Safety Notes
 
